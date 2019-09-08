@@ -17,4 +17,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenarios/CircularMovement/Scenes/CircleSpeed.unity
     guid: d7d32c1f4c631ad499ffaa1310449a6f
+  - enabled: 1
+    path: Assets/Scenarios/CircularMovement/Scenes/SameAngularSpeed.unity
+    guid: f45f69779cfd86843ab957967f4ad078
+  - enabled: 1
+    path: Assets/Scenarios/CircularMovement/Scenes/SameLinearSpeed.unity
+    guid: 6c3ff3e044cb49840a1b199b16341e68
   m_configObjects: {}
